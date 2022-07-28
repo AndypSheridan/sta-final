@@ -9,3 +9,7 @@
 body {
     font-family: Raleway, sans-serif;
 }
+
+.navbar {
+    background: url('../images/pexels-todd-trapani-2339377.png') no-repeat center center;
+}
