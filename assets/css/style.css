@@ -114,6 +114,14 @@ body {
     position: absolute;
 }
 
+#contact {
+    color: #fff;
+}
+
+#contact:hover {
+    color: yellow;
+}
+
 
 
 
