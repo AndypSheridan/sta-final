@@ -141,7 +141,12 @@ body {
     background: linear-gradient(to bottom right, #9544CB, #575359);
 }
 
-
+#philosophy h2 {
+    width: 95%;
+    color: #ffe9ff;
+    margin: 0 auto;
+    padding: 5px;
+}
 
 
 
