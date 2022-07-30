@@ -50,4 +50,13 @@ body {
     padding: 1.5rem;
 }
 
+.navbar-links:hover {
+    background-color: #9544cb;
+    color: #fff;
+}
+
+.navbar-toggle {
+    display: none;
+}
+
 
