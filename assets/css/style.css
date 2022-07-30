@@ -27,10 +27,17 @@ body {
 .logo {
     flex: 1;
     user-select: none;
+    width: 200px;
+    height: auto;
 }
 
-.navbar img{
+.logo img{
     display: block;
+}
+
+.logo a {
+    width: 200px;
+    height: auto;
 }
 
 .navbar li {
