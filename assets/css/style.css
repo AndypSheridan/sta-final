@@ -35,11 +35,6 @@ body {
     display: block;
 }
 
-.logo a {
-    width: 200px;
-    height: auto;
-}
-
 .navbar li {
     list-style-type: none;
 }
