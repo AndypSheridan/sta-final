@@ -22,3 +22,7 @@ body {
     color: aliceblue;
 }
 
+.navbar li {
+    list-style-type: none;
+}
+
