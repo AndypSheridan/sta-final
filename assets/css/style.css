@@ -126,7 +126,20 @@ body {
     list-style-type: none;
 }
 
+#philosophy {
+    font-size: 125%;
+    text-align: justify;
+    text-align-last: center;
+    letter-spacing: 1.5px;
 
+    height: auto;
+    max-width: 100%;
+
+    padding: 20px 30px 15px 30px;
+    
+    color: #ffe9ff;
+    background: linear-gradient(to bottom right, #9544CB, #575359);
+}
 
 
 
