@@ -10,6 +10,8 @@ body {
     font-family: Raleway, sans-serif;
 }
 
+/* Navbar */
+
 .navbar {
     background: url('../images/pexels-todd-trapani-2339377.png') no-repeat center center;
     background-size: cover;
@@ -58,5 +60,9 @@ body {
 .navbar-toggle {
     display: none;
 }
+
+/* Home Page */
+
+
 
 
