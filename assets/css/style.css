@@ -122,6 +122,10 @@ body {
     color: yellow;
 }
 
+.facilities li {
+    list-style-type: none;
+}
+
 
 
 
