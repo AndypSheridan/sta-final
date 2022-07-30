@@ -36,3 +36,7 @@ body {
     font-size: 225%;
     font-weight: bold;
 }
+
+.active {
+    border-bottom: 1px solid #fff;
+}
