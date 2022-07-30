@@ -15,3 +15,10 @@ body {
     background-size: cover;
 }
 
+.navbar ul {
+    display: flex;
+    width: 100%;
+    align-items: center;
+    color: aliceblue;
+}
+
