@@ -375,3 +375,11 @@ iframe {
     height: 400px;
 }
 
+/* Media Queries */
+
+@media screen and (max-width:1200px) {
+    #philosophy {
+        width: auto;
+        height: auto;
+    }
+}
