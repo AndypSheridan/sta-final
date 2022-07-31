@@ -467,8 +467,17 @@ iframe {
         font-size: 90%;
     }
 
+    #welcome {
+        height: auto;
+    }
+
     #welcome h1 {
         font-size: 90%;
+    }
+
+    .column p {
+        height: auto;
+        clear:both;
     }
 
 }
