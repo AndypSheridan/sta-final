@@ -414,4 +414,11 @@ iframe {
         height: auto;
     }
 
+    .column h3 {
+        margin: 0;
+    }
+
+    .column p {
+        height: auto;
+    }
 }
