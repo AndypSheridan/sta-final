@@ -228,3 +228,21 @@ body {
     height: auto;
     padding: 25px;
 }
+
+#team {
+    width: 100%;
+    height: auto;
+}
+
+.row {
+    width: 100%;
+    height: auto;
+    clear: both;
+}
+
+.column {
+    width: 33.33%;
+    height: auto;
+    float: left;
+    background-color: #ffe9ff;
+}
