@@ -335,7 +335,7 @@ body {
     text-align: right;
     padding: 5px 50px 5px 5px;
     margin: 40px 0;
-    background-color: #9544CB;
+    background: linear-gradient(to bottom left, #9544CB, #575359);
     color: #ffe9ff;
 }
 
@@ -358,7 +358,7 @@ body {
 #map h2 {
     text-align: left;
     padding: 5px 5px 5px 50px;
-    background-color: #9544CB;
+    background: linear-gradient(to bottom right, #9544CB, #575359);
     color: #ffe9ff;
     margin: 40px 0;
 }
