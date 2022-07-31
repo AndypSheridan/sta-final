@@ -458,4 +458,14 @@ iframe {
     #philosophy h2{
         text-align: center;
     }
+
+    #cover-text {
+        margin-left: 2rem;
+        max-width: fit-content;
+        max-height: fit-content;
+        height: auto;
+        font-size: 90%;
+    }
+
+    
 }
