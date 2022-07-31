@@ -433,4 +433,8 @@ iframe {
         flex-wrap: wrap;
     }
 
+    .navbar-toggle {
+        display: block;
+        margin-right: 25px;
+    }
 }
