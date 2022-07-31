@@ -450,8 +450,9 @@ iframe {
         border-bottom: none;
     }
     
-    .navbar a {
-
+    #philosophy {
+        height: auto;
+        font-size: 100%;
     }
 
 }
