@@ -37,6 +37,33 @@
             <input id="fullname" class="text-input" type="text" name="email_address" required>
             <br>
             <br>
+            <h3>I am looking for:</h3>
+            <label for="junior">Junior Coaching</label>
+            <input type="radio" id="junior" name="coaching_preference" value="junior" required>
+            <label for="adult">Adult Coaching</label>
+            <input type="radio" id="adult" name="coaching_preference" value="adult">
+            <br>
+            <br>
+            <label for="individual">Individual Coaching</label>
+            <input type="checkbox" id="individual" name="individual" value="individual_coaching" required>
+            <label for="group">Group Coaching</label>
+            <input type="checkbox" id="group" name="group" value="group_coaching">
+            <label for="conditioning">Tennis Conditioning Training</label>
+            <input type="checkbox" name="conditioning" id="conditioning" value="conditioning_training">
+            <br>
+            <br>
+            <label for="experience">Years Playing Experience</label>
+            <select name="playing_experience" id="experience">
+                <option value="none">None</option>
+                <option value="1-2">1-2</option>
+                <option value="3-5">3-5</option>
+                <option value="5-8">5-8</option>
+                <option value="8-15">8-15</option>
+                <option value="15+">15+</option>
+            </select>
+            <br>
+            <br>
+            <input class="game-button" type="submit" value="Game On!">
         </form>
     </section>
 
