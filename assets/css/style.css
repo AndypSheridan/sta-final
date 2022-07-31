@@ -246,3 +246,8 @@ body {
     float: left;
     background-color: #ffe9ff;
 }
+
+.column img {  
+    width: 100%;
+    background-color: #ffe9ff;
+}
