@@ -363,3 +363,14 @@ body {
     margin: 40px 0;
 }
 
+#map-box {
+    width: 100%;
+    height: auto;
+    box-sizing: border-box;
+}
+
+iframe {
+    width: 80%;
+    height: 400px;
+}
+
