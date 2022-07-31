@@ -287,3 +287,8 @@ body {
     left: 5%;
     padding: 30px;
 }
+
+.signup-form h2, h3 {
+    color: #ffe9ff;
+    margin-bottom: 20px;
+}
