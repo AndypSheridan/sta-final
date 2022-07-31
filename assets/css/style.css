@@ -436,5 +436,12 @@ iframe {
     .navbar-toggle {
         display: block;
         margin-right: 25px;
+        font-size: 200%;
+    }
+
+    .navbar-links {
+        display: none;
+        width: 100%;
+        text-align: center;
     }
 }
