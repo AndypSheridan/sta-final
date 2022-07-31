@@ -65,6 +65,14 @@ body {
 
 /* Home Page */
 
+#banner {
+    text-align: center;
+    font-size: 200%;
+    background: linear-gradient(to bottom right, #9544CB, #575359);
+    color: #ffe9ff;
+    padding: 25px;
+}
+
 #hero-outer {
     height: 600px;
     width: 100%;
