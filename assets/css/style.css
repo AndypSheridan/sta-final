@@ -354,3 +354,12 @@ body {
     border-left: 1px solid #9544CB;
     box-sizing: border-box;
 }
+
+#map h2 {
+    text-align: left;
+    padding: 5px 5px 5px 50px;
+    background-color: #9544CB;
+    color: #ffe9ff;
+    margin: 40px 0;
+}
+
