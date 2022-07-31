@@ -277,3 +277,13 @@ body {
     background-size: cover;
     background-position: center;
 }
+
+.signup-form {
+    margin: 175px 0 50px;
+    color: #ffe9ff;
+    background-color: rgba(149, 68, 203, 0.8);
+    max-width: 400px;
+    position: absolute;
+    left: 5%;
+    padding: 30px;
+}
