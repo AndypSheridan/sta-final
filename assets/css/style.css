@@ -386,6 +386,10 @@ iframe {
 /* Media Queries */
 
 @media screen and (max-width:1200px) {
+    #banner {
+        font-size: 175%;
+    }
+    
     #philosophy {
         width: auto;
         height: auto;
