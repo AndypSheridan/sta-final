@@ -400,5 +400,12 @@ iframe {
         width: 100%;
     }
 
-    
+    #cover-text {
+        padding-top: 30px;
+        padding-left: 15px;
+
+        bottom: 25px;
+        right: 25px;
+    }
+
 }
