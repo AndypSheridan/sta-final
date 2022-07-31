@@ -202,6 +202,16 @@ body {
     FONT-WEIGHT: 200;
 }
 
+.social-networks > li {
+    display: inline;
+}
+
+.social-networks i {
+    font-size: 250%;
+    margin: 1px;
+    padding: 5%;
+    color: #ffe9ff;
+}
 
 /* Team Page */
 
