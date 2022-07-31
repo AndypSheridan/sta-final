@@ -429,4 +429,8 @@ iframe {
         height: auto;
     }
 
+    .navbar ul {
+        flex-wrap: wrap;
+    }
+
 }
