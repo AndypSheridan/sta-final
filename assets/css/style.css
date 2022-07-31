@@ -389,4 +389,9 @@ iframe {
         font-size: 175%;
     }
     
+    #philosophy {
+        padding: 30px;
+        width: auto;
+        height: auto;
+    }
 }
