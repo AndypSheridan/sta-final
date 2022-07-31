@@ -302,3 +302,7 @@ body {
     border: 1px solid #ffe9ff;
     border-radius: 10px;
 }
+
+.text-input:hover {
+    border-color: #e7df49;
+}
