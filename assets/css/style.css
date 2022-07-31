@@ -345,3 +345,12 @@ body {
     color: #575359;
     font-size: 200%;
 }
+
+#map {
+    width: 50%;
+    height: 580px;
+    float: left;
+    background-color: #ffe9ff;
+    border-left: 1px solid #9544CB;
+    box-sizing: border-box;
+}
