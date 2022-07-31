@@ -259,3 +259,11 @@ body {
     font-weight: bolder;
     padding: 10px;
 }
+
+.column p {
+    color: #575359;
+    text-align: center;
+    background-color: #ffe9ff;
+    padding: 10px;
+    height: 100px;
+}
