@@ -317,3 +317,8 @@ body {
     color: #ffe9ff;
     display: block;
 }
+
+.game-button:hover {
+    background-color: #e7df49;
+    color: #9544CB;
+}
