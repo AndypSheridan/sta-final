@@ -251,3 +251,11 @@ body {
     width: 100%;
     background-color: #ffe9ff;
 }
+
+.column h3 {
+    color: #575359;
+    background-color: #ffe9ff;
+    text-align: center;
+    font-weight: bolder;
+    padding: 10px;
+}
