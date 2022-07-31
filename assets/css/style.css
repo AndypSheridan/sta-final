@@ -215,4 +215,16 @@ body {
 
 /* Team Page */
 
+#welcome {
+    height: 150px;
+    background: linear-gradient(to bottom right, #9544CB, #575359);
+    color: #ffe9ff;
+    font-size: 280%;
+    text-align: center;
+    padding: 25px;
+}
 
+#welcome h1 {
+    height: auto;
+    padding: 25px;
+}
