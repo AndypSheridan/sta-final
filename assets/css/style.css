@@ -323,3 +323,10 @@ body {
     color: #9544CB;
 }
 
+#address {
+    background-color: #ffe9ff;
+    width: 50%;
+    height: 580px;
+    float: left;
+    color: #575359;
+}
