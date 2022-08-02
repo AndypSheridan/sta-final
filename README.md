@@ -78,10 +78,9 @@ For the STA site, I decided on two different shades of purple: #9544CB and #ffe9
 Here is a chance to discuss the fonts used and again why, doesn't need to be crazy detail
 ​
 * Throughout the page, the following fonts are used:
-  * Raleway - I had already created a logo which used this font so I wanted to use it throughout the site.
+  * Raleway - I had already created a logo which used this font so I wanted to use it throughout the site. I felt tat this font offered a clean and modern look which suits the new academy.
   * Sans serif - As a fallback font in the event Raleway wasn't supported by the browser
 ​
-* DM and Open sans were both selected to complement each other and because they have a soft appearance which I thought best suited to the site
 * All fonts were sourced from Google fonts, as stated in the credits.
 ​
 ## **Current Features Common to all pages**
