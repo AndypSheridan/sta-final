@@ -4,7 +4,7 @@
 
 Southampton Tennis Academy is designed to fulfil a genuine need for a high-level, inclusive tennis academy with state of the art facilities in the Southampton area of the UK.
 
-Whilst there are numerous clubs within the county they are often big-business, money orientated environments or smaller clubs with inadequate coaching and competition prgrammes not to mention facilities which make training all year round a real challenge.
+Whilst there are numerous clubs within the county they are often big-business, money-orientated environments or smaller clubs with inadequate coaching and competition programmes not to mention facilities which make training all year round a real challenge.
 
 The ideology here is to provide an amazing setting with high-calibre coaches who are all committed to developing tennis players of all ages and abilities. The centre is new so the site's purpose is to generate awareness within the local and wider community, whilst trying to make it clear that the philosophy is to put the prospective player at the centre of everything irrespective of their age or level.
 
@@ -144,10 +144,11 @@ You  can find the live site via the following URL - [live webpage](https://youru
 ​
 ## **Tech**
 ​
-Here mention what technologies you've used for example
+I used the following technologies for the STA project:
 ​
 - HTML
 - CSS
+- JavaScript
 ​
 ## **Credits**
 ### **Honorable mentions**
