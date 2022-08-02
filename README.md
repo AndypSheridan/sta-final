@@ -57,12 +57,12 @@ User stories are more what the user wants from the site in terms of features and
 * As a user, I want to reach out and contact the business
 ​
 ### **Site Aims:**
-​
-This is optional but offers the insight into what the aim of the project are
-​
-* To inform the user on opening times
-* To inform the user about what we offer when they are here
+​​
+* To raise awareness of the new centre and its philosophy
+* To provide an opportunity for the user to see profiles of the coaching team
 * To offer the user an oppertunity to get in contact
+* To provide a sign-up form the user can complete if they would rather not email or contact via social media
+* To show the location of the centre via a map and address
 ​
 ​
 ### **Wireframes:**
