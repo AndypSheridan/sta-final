@@ -153,7 +153,7 @@ I used the following technologies for the STA project:
 ## **Credits**
 ### **Honorable mentions**
 ​
-It's always nice to mention those that helped you get there, if people gave you support on slack or the local cat scared you into completing give them a mention!
+My mentor, Richard Wells gave me a lot of help and feedback on the project. Thanks to the Code Institute community on Slack who helped me realise everyone has difficult days.
 ​
 ### **Content:**
 ​
