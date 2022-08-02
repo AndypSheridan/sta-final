@@ -90,7 +90,14 @@ Here is a chance to discuss the fonts used and again why, doesn't need to be cra
 * The STA logo is present on the left side of the header
 * The user is given links to each of the three pages
 * Each option is presented in a way that is always obvious and readable by using a large font and hover effects
-* on smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience
+* The header is responsive thanks to a flex display
+* On smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience
+
+
+#### *Footer:*
+
+* The footer contains social media link and a clickable email link so the user can contact the academy
+* The footer is responsive and the icons all shrink on smaller screens
 ​
 #### *features
 ​
@@ -98,11 +105,12 @@ Here is a chance to discuss the fonts used and again why, doesn't need to be cra
 ​
 ## **Future-Enhancements**
 ​
-A webpage is a living beast it's going to evolve past the initial stages of release generally, it's always good to discuss where you this the page may go in the future
+There are a number of improvements which could be made to the site:
 ​
-* At the time of making this page i didn't have the understanding to actual send e-mails from the contact form so intergration with email.js to send e-mails would improve the users experience
-​
-* Due to the subject matter, we have discussed the idea of including a small JS game to engage the user
+* A clickable link for calling the academy on mobile devices
+* Access to a user account in order to make court bookings or book sessions with a coach
+* The ability to view the coaching programme and book on to courses online
+* A further page with details of team fixtures and how the user can contact the various captains
 ​
 ## **Testing Phase**
 ​
