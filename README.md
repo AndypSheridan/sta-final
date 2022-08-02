@@ -42,11 +42,10 @@ The ideology here is to provide an amazing setting with high-calibre coaches who
 ## **Planning stage**
 ### **Target Audiences:**
 ​
-This section is a breakdown of the target audience 3 or 4 bullet points so using our example
-​
-* Users interested in retro gaming 
-* Users interested in a safe environment to gather and have fun
-* Users interested in activities in the Sheffield area
+* Parents looking for somewhere safe and professional their children can train 
+* Adults who wish to develop their tennis or compete at a new, exciting facility
+* Beginners who are looking for a friendly environment in which to learn the game
+* High level players looking for a training base between tournaments
 ​
 ### **User Stories:**
 ​
