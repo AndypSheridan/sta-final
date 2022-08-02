@@ -71,9 +71,7 @@ These are optional if you have any drawings or diagrams about how the site is in
 ​
 ### **Color Scheme:**
 ​
-Here discuss about the colours you have chosen for the design and the reasoning behind it, make sure to include hash values as well!
-​
-For the page we decided on a black (#000) and red theme (#a red hash i can't remember one) to hark back to the designs of the Sega megadrive which is symbolic of the retro gaming scene blah blah bull shit goes here
+For the STA site, I decided on two different shades of purple: #9544CB and #ffe9ff. I wanted to evoke similarities to the Wimbledon colours which are purple and green. I chose images with fair amounts of green in them to provide that colour. I had to use white #fff in the header to provide suitable contrast to the background image. I used a grey #575359 as a neutral shade which worked well with the other colours. I also used this as the colour for the footer and some of the text. In the form section I used a yellow #e7df49 a) to provide contrast and b) because it was the closest I could get to the colour of a tennis ball.
 ​
 ## **Typography**
 ​
