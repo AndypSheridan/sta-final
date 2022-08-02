@@ -86,10 +86,10 @@ Here is a chance to discuss the fonts used and again why, doesn't need to be cra
 ## **Current Features Common to all pages**
 ​
 #### *Navigation Bar:*
-This is an example of the features section, your going to talk about each section of the page and what it offers for the navbar for example
 ​
-* The user is given links to each section of the page
-* Each option is presented in a way that is always obvious and reable
+* The STA logo is present on the left side of the header
+* The user is given links to each of the three pages
+* Each option is presented in a way that is always obvious and readable by using a large font and hover effects
 * on smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience
 ​
 #### *features
