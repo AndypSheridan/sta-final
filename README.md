@@ -107,12 +107,13 @@ Here is a chance to discuss the fonts used and again why, doesn't need to be cra
 ​
 ## **Future-Enhancements**
 ​
-There are a number of improvements which could be made to the site:
+There are a number of improvements which the business would like implemented:
 ​
-* A clickable link for calling the academy on mobile devices
-* Access to a user account in order to make court bookings or book sessions with a coach
+* A clickable link allowing the user to call the academy from mobile devices
+* Access to a user account in order to make court bookings or book sessions with a coach 
 * The ability to view the coaching programme and book on to courses online
 * A further page with details of team fixtures and how the user can contact the various captains
+* A gallery page showing members and other staff at the facility
 ​
 ## **Testing Phase**
 ​
