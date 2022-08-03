@@ -21,7 +21,7 @@ body {
     display: flex;
     width: 100%;
     align-items: center;
-    color: aliceblue;
+    color: #fff;
 }
 
 .logo {
@@ -441,6 +441,7 @@ iframe {
 }
 
 @media screen and (max-width: 600px) {
+    
     .logo img {
         width: 150px;
         height: auto;
@@ -448,6 +449,7 @@ iframe {
 
     .navbar ul {
         flex-wrap: wrap;
+        background-color: rgba(0,0,0,0.3);
     }
 
     .navbar-toggle {
