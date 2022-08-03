@@ -394,6 +394,11 @@ iframe {
         width: auto;
         height: auto;
     }
+
+    #cover-text {
+        right: 90px;
+        bottom: 50px;
+    }
 }
 
 @media screen and (max-width:950px) {
@@ -488,6 +493,7 @@ iframe {
         max-height: fit-content;
         height: auto;
         font-size: 90%;
+        right: 16px;
     }
 
     #welcome {
