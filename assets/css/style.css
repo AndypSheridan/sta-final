@@ -522,8 +522,11 @@ iframe {
     #address {
         clear: both;
         width: 100%;
-        height:auto;
-        font-size: 80%;
+        height:auto;    
+    }
+
+    #address p {
+        font-size: 1.2rem;
     }
 
     #map {
