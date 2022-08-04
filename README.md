@@ -8,7 +8,8 @@ Whilst there are numerous clubs within the county they are often big-business, m
 
 The ideology here is to provide an amazing setting with high-calibre coaches who are all committed to developing tennis players of all ages and abilities. The centre is new so the site's purpose is to generate awareness within the local and wider community, whilst trying to make it clear that the philosophy is to put the prospective player at the centre of everything irrespective of their age or level.
 
-![Am I responsive screenshot](imagelocation so maybe docs/image.jpg)
+![Am I Responsive Screenshot](docs/images/amiresponsive.png)
+
 ​
 ## Table of contents:
 1. [**Site Overview**](#site-overview)
