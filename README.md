@@ -47,17 +47,17 @@ The ideology here is to provide an amazing setting with high-calibre coaches who
 * Adults who wish to develop their tennis or compete at a new, exciting facility
 * Beginners who are looking for a friendly environment in which to learn the game
 * High level players looking for a training base between tournaments
+
 ​
 ### **User Stories:**
-​
-User stories are more what the user wants from the site in terms of features and presentation
-​
+​​
 * As a user, I want to see what facilities the academy boasts
 * As a user, I want to learn about the philosophy of the academy
 * As a user, I want to navigate the page to find what I require quickly and easily.
 * As a user, I want to learn more about the coaches and what they offer
 * As a user, I want to reach out and contact the academy
 * As a user, I want to know how to find the academy
+
 ​
 ### **Site Aims:**
 ​​
@@ -66,10 +66,10 @@ User stories are more what the user wants from the site in terms of features and
 * To offer the user an oppertunity to get in contact
 * To provide a contact form the user can complete if they would rather not email or contact via social media
 * To show the location of the centre via a map and address
-​
-​
+
+​​
 ### **Wireframes:**
-​
+
 * Home Page
 [Home Page Wireframe](docs/images/home-wireframe.png)
 
@@ -79,16 +79,16 @@ User stories are more what the user wants from the site in terms of features and
 * Form Page
 [Form Page Wireframe](docs/images/form-wireframe.png)
 ​
+
 ### **Color Scheme:**
 ​
 For the STA site, I decided on two different shades of purple: #9544CB and #ffe9ff. I wanted to evoke similarities to the Wimbledon colours which are purple and green. I chose images with fair amounts of green in them to provide that colour. I had to use white #fff in the header to provide suitable contrast to the background image. I used a grey #575359 as a neutral shade which worked well with the other colours. I also used this as the colour for the footer and some of the text. In the form section I used a yellow #e7df49 a) to provide contrast and b) because it was the closest I could get to the colour of a tennis ball.
+
 ​
-## **Typography**
-​
-Here is a chance to discuss the fonts used and again why, doesn't need to be crazy detail
+### **Typography**
 ​
 * Throughout the page, the following fonts are used:
-  * Raleway - I had already created a logo which used this font so I wanted to use it throughout the site. I felt tat this font offered a clean and modern look which suits the new academy.
+  * Raleway ('https://fonts.googleapis.com/css2?family=Raleway&display=swap') - I had already created a logo which used this font so I wanted to use it throughout the site. I felt that this font offered a clean and modern look which suits the new academy.
   * Sans serif - As a fallback font in the event Raleway wasn't supported by the browser
 ​
 * All fonts were sourced from Google fonts, as stated in the credits.
@@ -109,7 +109,7 @@ Here is a chance to discuss the fonts used and again why, doesn't need to be cra
 * The footer contains social media link and a clickable email link so the user can contact the academy
 * The footer is responsive and the icons all shrink on smaller screens
 ​
-#### *features
+#### *Features
 ​
 * This is where you will place all of your features think about each section of the page include a screenshot and a few bullet points on how it's presented and why
 ​
