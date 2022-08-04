@@ -167,6 +167,22 @@ Here is a good idea to talk about how and why you have tested with certain tools
 * The Google map on the same page also functions properly. 
 ​
 * Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from it
+* HTML Validation using w3c validator - Each page passed validation
+* 
+* [Home page](docs/images/home-html-check.png)
+* [Team page](docs/images/team-html-check.png)
+* [Form page](docs/images/form-html-check.png)
+
+* CSS Validation using w3c jigsaw - Each page passed validation
+* 
+* [Home page](docs/images/home-css-check.png)
+* [Team page](docs/images/team-css-check.png)
+* [Form page](docs/images/form-css-check.png)
+
+* JavaScript Validation using jShint - Code passed validation
+* 
+* [JavaScript code report](docs/images/jshint-report.png)
+
 ​
 ​
 ## **Bugs**
