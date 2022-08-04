@@ -473,6 +473,10 @@ iframe {
         display: block;
         border-bottom: none;
     }
+
+    #banner h1 {
+        font-size: 60%;
+    }
     
     #philosophy {
         height: auto;
