@@ -149,15 +149,13 @@ There are a number of improvements which the business would like implemented:
 ​
 ## **Testing Phase**
 ​
-This is the hardest bit of the readme, when we have completed a page we need to discuss testing.
-​
-Here is a good idea to talk about how and why you have tested with certain tools and validators so here a list of things to talk through
-​
-* Responsiveness
+**Responsiveness**
 * Responsiveness was tested extensively using Chrome Dev Tools. This proved invaluable when creating each page and was instrumental in helping me ensure responsiveness on multiple devices and screen sizes. The ability to experiment with the code saved a lot of trial and error within gitpod.
 * User testing was conducted on multiple devices including phones, tablets, laptops and desktops. As I was limited to Apple devices only I sent the link to varius friends and colleagues so they could check responsiveness. In each case, the pages responded as expected.
 ​
-* Functionality - Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
+
+**Functionality**
+
 * Each feature was user-tested numerous times. All links were clicked and inages checked.
 * The header is responsive and each of the links and hamburger menu function as desired. 
 * The javascript behaves as expected regardless of the device. 
@@ -165,26 +163,28 @@ Here is a good idea to talk about how and why you have tested with certain tools
 * The contact link within the cover-text takes the user to the contact page when clicked. 
 * On the contact page the form inputs and validation works as expected. 
 * The Google map on the same page also functions properly. 
-* I used Lighthouse to test each page. Results below:
+* I used *Lighthouse* to test each page. Results below:
 * [Home page](docs/images/home-lighthouse.png)
 * [Team page](docs/images/team-lighthouse.png)
 * [Form page](docs/images/form-lighthouse.png)
+
 ​
-* Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from it
+**Validators**
+
 * HTML Validation using w3c validator - Each page passed validation
-* 
+
 * [Home page](docs/images/home-html-check.png)
 * [Team page](docs/images/team-html-check.png)
 * [Form page](docs/images/form-html-check.png)
 
 * CSS Validation using w3c jigsaw - Each page passed validation
-* 
+
 * [Home page](docs/images/home-css-check.png)
 * [Team page](docs/images/team-css-check.png)
 * [Form page](docs/images/form-css-check.png)
 
 * JavaScript Validation using jShint - Code passed validation
-* 
+
 * [JavaScript code report](docs/images/jshint-report.png)
 
 ​
