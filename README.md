@@ -70,7 +70,14 @@ User stories are more what the user wants from the site in terms of features and
 ​
 ### **Wireframes:**
 ​
-These are optional if you have any drawings or diagrams about how the site is intended to look include them here
+* Home Page
+[Home Page Wireframe](docs/images/home-wireframe.png)
+
+* Team Page
+[Team Page Wireframe](docs/images/team-wireframe.png)
+
+* Form Page
+[Form Page Wireframe](docs/images/form-wireframe.png)
 ​
 ### **Color Scheme:**
 ​
