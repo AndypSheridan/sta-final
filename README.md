@@ -70,6 +70,8 @@ The ideology here is to provide an amazing setting with high-calibre coaches who
 ​​
 ### **Wireframes:**
 
+Wireframes for each page were created using Balsamiq.
+
 * Home Page
 [Home Page Wireframe](docs/images/home-wireframe.png)
 
@@ -152,6 +154,8 @@ This is the hardest bit of the readme, when we have completed a page we need to 
 Here is a good idea to talk about how and why you have tested with certain tools and validators so here a list of things to talk through
 ​
 * Responsiveness - How do you test this, dev tools? checking on multiple devices?
+* Responsiveness was tested extensively using Chrome Dev Tools. This proved invaluable when creating each page and was instrumental in helping me ensure responsiveness on multiple devices and screen sizes.
+* User testing was conducted on multiple devices including phones, tablets, laptops and desktops. As I was limited to Apple devices only I sent the link to varius friends and colleagues so they could check responsiveness. In each case, the pages responded as expected.
 ​
 * Functionality - Each feature needs to be tested before something is complete, talk about the process, click each link check each image, does form validation work, if your using javascript or anything else, does it always behave as the user expects
 ​
