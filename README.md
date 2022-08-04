@@ -113,8 +113,10 @@ For the STA site, I decided on two different shades of purple: #9544CB and #ffe9
 * [Screenshot of footer](docs/images/footer.png)
 * [Screenshot of responsive footer](docs/images/footer-responsive.png)
 ​
-#### *Features
+#### *Features*
 ​
+* Home Page
+* The main focus of the page is the hero image. This shows two young girls talking by the net on a tennis court. There is an animation which gives the effect
 * This is where you will place all of your features think about each section of the page include a screenshot and a few bullet points on how it's presented and why
 ​
 ## **Future-Enhancements**
