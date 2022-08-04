@@ -102,12 +102,16 @@ For the STA site, I decided on two different shades of purple: #9544CB and #ffe9
 * Each option is presented in a way that is always obvious and readable by using a large font and hover effects
 * The header is responsive thanks to a flex display
 * On smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience
+* [Screenshot of header](docs/images/home.png)
+* [Screenshot of responsive header](docs/images/home-responsive.png)
 
 
 #### *Footer:*
 
 * The footer contains social media link and a clickable email link so the user can contact the academy
 * The footer is responsive and the icons all shrink on smaller screens
+* [Screenshot of footer](docs/images/footer.png)
+* [Screenshot of responsive footer](docs/images/footer-responsive.png)
 ​
 #### *Features
 ​
