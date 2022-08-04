@@ -165,6 +165,10 @@ Here is a good idea to talk about how and why you have tested with certain tools
 * The contact link within the cover-text takes the user to the contact page when clicked. 
 * On the contact page the form inputs and validation works as expected. 
 * The Google map on the same page also functions properly. 
+* I used Lighthouse to test each page. Results below:
+* [Home page](docs/images/home-lighthouse.png)
+* [Team page](docs/images/team-lighthouse.png)
+* [Form page](docs/images/form-lighthouse.png)
 ​
 * Validators - Here include images from w3c html validator and css jigsaw (jshint for js and pep8 for python) and the results that came from it
 * HTML Validation using w3c validator - Each page passed validation
