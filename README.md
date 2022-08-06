@@ -118,23 +118,26 @@ For the STA site, I decided on two different shades of purple: #9544CB and #ffe9
 
 ## **Features**
 ​
-* Home Page [Screenshot of top of home page](docs/images/home1.png)
+#### Home Page 
+[Screenshot of top of home page](docs/images/home1.png)
 * The h1 heading features a gradient background colour from top left to bottom right using the purple and gray that is prominent throughout the site (outlined in the colours section). The font size reduces depending on the width of the screen it is being viewed on.
 * The main focus of the page is the hero image. This shows two young girls talking by the net on a tennis court. There is an animation which adds a 6 second zoom effect upon the page loading.
 * This image was chosen to fit the Wimbledon-esque colour scheme of the website. The two girls are both smiling which helps to create the image of the academy being a safe and friendly place for children.
 * There is a text-box placed in line with the first girl's line of sight to give the illusion that she is looking towards it. This was designed to draw the user's attention to the box which lists the facilities of the academy. At the bottom of the list is a ink which takes the user to the contact form page.
 * The philosophy section outlines the core beliefs of the academy. The emphasis here is very much on the player and their long-term development being at the centre of everything. It introduces three core principles which are central to the programmes on offer. For consistency, this section features the same gradient background as the h1 heading.
-* [Screenshot of bottom of home page](docs/images/home2.png)
+[Screenshot of bottom of home page](docs/images/home2.png)
 * The programme section elaborates on the core principles of competition, coaching and practice. The important message to convey is that there is more to the academy than just coaching. There is a comprehansive competetition programme involving team events and leagues, singles and doubles and rankings tournaments for all ages and abilities. Practice is also an essential ideology at the academy and players as it is recognised that this is often where a lot of the hard work is done.
 * This section is split into three divs which sit side by side but stack one on top of the other on smaller screens. In the headings for each div I used relevant icons from Font Awesome which help to reinforce what each one is about.
 
-* Team Page [Screenshot of team page](docs/images/team.png)
+#### Team Page 
+[Screenshot of team page](docs/images/team.png)
 * The team page uses the same h1 heading, responsiveness and background gradient as the home page for the purpose of consistency.
 * The main focus of this page are the photos of the three coaches and their corresponding short biographies. Similar to the home page, these are placed side by side but will stack on top of each other when the screen width is reduced. I have used the same background colour for the bios as the programme section of the home page.
 
-* Contact form page [Screenshot of contact form](docs/images/form1.png)
+#### Contact form page 
+[Screenshot of contact form](docs/images/form1.png)
 * The contact page features a background image of an elderly gentleman playing tennis. There is a significant amount of green in this image which fits well with the chosen colour scheme. On top of the image and positioned to the left of the page is a contact form which features a name input, date of birth input, email input, radio buttons, checkboxes, a dropdown menu and a submit button. The purpose of the form is to give the user an opportunity to contact the academy and provide information about which type of coaching they are interested in, as well as to specify their own previous playing experience, if any. The colours are consistent throughout using those which are used across the site as a whole.
-* [Screenshot of address and map](docs/images/form2.png)
+[Screenshot of address and map](docs/images/form2.png)
 * The next section features the academy's address placed next to a map showing its location. I have used the same gradient background on the headings and on smaller screens the two divs will sit on top of ecah other.
 ​
 ## **Future-Enhancements**
