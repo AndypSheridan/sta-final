@@ -238,7 +238,15 @@ My mentor, Richard Wells gave me a lot of help and feedback on the project. Than
 ​
 ### **Content:**
 ​
-If you took any code from online source and by this i mean copy paste with zero changes mention it here!
+The following JavaScript code was taken from Well Explained's youtube video:
+
+const toggleButton = document.getElementsByClassName('navbar-toggle')[0];
+const navbarLinks = document.getElementsByClassName('navbar-links');
+toggleButton.addEventListener('click', function() {
+    for(var i=0; i<navbarLinks.length; i++)
+    navbarLinks[i].classList.toggle('active');
+});
+
 
 ### **Media:**
 ​
