@@ -191,11 +191,19 @@ There are a number of improvements which the business would like implemented:
 ​
 ## **Bugs**
 ​
-We always have bugs in development, a few bullet points here to talk about bugs you found and how you fixed them, in later projects this will be more detailed
+The following bugs were identified during user testing:
+
+* Issue - When on mobile the team page coach bios failed to align properly
+* Cause - There was an open div tag in the html code
+* Resolution - Added the relevant closing tag to make the coach bios respond properly
+
+* Issue - The contact form contained a bug where it was possible to submit the form without providing a valid email address
+* Cause - The input type had been set to text
+* Resolution - Change input type to email so a valid email address was required
 ​
-* Issue - When on mobile the user had horizontal scroll with items overflowing
-* Cause - The images had absolute positioning and caused them to go off screen
-* Resolution - Changed the width of the image to stay within the confines of the screen.
+* Issue - The contact form would not submit unless 'individual coaching' was selected 
+* Cause - The input type had been set to 'required'
+* Resolution - Remove the required attribute so the user did not have to select this option
 ​
 ***
 ## **Deployment**
