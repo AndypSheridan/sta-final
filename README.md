@@ -217,6 +217,15 @@ I used the following technologies for the STA project:
 - HTML
 - CSS
 - JavaScript
+
+## **Software**
+
+The following software was used:
+
+- Git
+- Github
+- Gitpod
+- 
 ​
 ## **Credits**
 ### **Honorable mentions**
