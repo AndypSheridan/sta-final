@@ -84,7 +84,7 @@ Wireframes for each page were created using Balsamiq.
 
 ### **Color Scheme:**
 ​
-For the STA site, I decided on two different shades of purple: #9544CB and #ffe9ff. I wanted to evoke similarities to the Wimbledon colours which are purple and green. I chose images with fair amounts of green in them to provide that colour. I had to use white #fff in the header to provide suitable contrast to the background image. I used a grey #575359 as a neutral shade which worked well with the other colours. I also used this as the colour for the footer and some of the text. In the form section I used a yellow #e7df49 a) to provide contrast and b) because it was the closest I could get to the colour of a tennis ball.
+For the STA site, I decided on two different shades of purple: #9544CB and #ffe9ff. I wanted to evoke similarities to the Wimbledon colours which are purple and green. I chose images with significant amounts of green in them to provide that colour. I had to use white #fff in the header to provide suitable contrast to the background image. I used a grey #575359 as a neutral shade which worked well with the other colours. I also used this as the colour for the footer and some of the text. In the form section I used a yellow #e7df49 a) to provide contrast and b) because it was the closest I could get to the colour of a tennis ball.
 
 ​
 ### **Typography**
@@ -228,6 +228,10 @@ The following software was used:
 - 
 ​
 ## **Credits**
+
+JavaScript code taken from YouTube user Well Explained. To help with the responsive navbar I used code from the following YouTube video: https://www.youtube.com/watch?v=qSp5C0OOMns
+At the time I had no knowledge of JavaScript so used the exact JS code featured in the video. The rest of the header is loosely based on their example but adapted for the needs of the academy.
+
 ### **Honorable mentions**
 ​
 My mentor, Richard Wells gave me a lot of help and feedback on the project. Thanks to the Code Institute community on Slack who helped me realise everyone has difficult days.
