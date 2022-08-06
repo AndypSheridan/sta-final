@@ -197,16 +197,14 @@ The following bugs were identified during user testing:
 * ⚒️ - There was an open div tag in the html code
 * ✅ - Added the relevant closing tag to make the coach bios respond properly
 
-
-
-
-
+<br>
 
 * 🐞 - The contact form contained a bug where it was possible to submit the form without providing a valid email address
 * ⚒️ - The input type had been set to text
 * ✅ - Change input type to email so a valid email address was required
 
-​
+​<br>
+
 * 🐞 - The contact form would not submit unless 'individual coaching' was selected 
 * ⚒️ - The input type had been set to 'required'
 * ✅ - Remove the required attribute so the user did not have to select this option
