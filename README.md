@@ -101,13 +101,14 @@ For the STA site, I decided on two different shades of purple: #9544CB and #ffe9
 ​
 #### **Navigation Bar:**
 ​
-* The STA logo is present on the left side of the header
-* The user is given links to each of the three pages
-* Each option is presented in a way that is always obvious and readable by using a large font and hover effects
-* The header is responsive thanks to a flex display
-* On smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience
-* [Screenshot of header](docs/images/home1.png)
-* [Screenshot of responsive header](docs/images/home-responsive.png)
+* The STA logo is present on the left side of the header and the navigation links are aligned to the right. The background image depicts a fetching image of a tennis ball on a court.
+* The user is given links to the home, team and contact pages.
+* Each navigation link features a hover effect too provide visual feedback to the user.
+* Each page features an active link to provide instant feedback to the user as to their location on the site.
+* The header is fully responsive and uniform across all three pages of the site thanks to a flex display.
+* On smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience.
+* ![Screenshot of header](docs/images/header.png)
+* ![Screenshot of responsive header](docs/images/header-responsive.png)
 
 
 #### *Footer:*
@@ -251,6 +252,7 @@ The following software was used:
 - Gitpod to create, load and push my code to Github.
 - Git (Gitpod and Github) as my version control for the site.
 - Adobe Express to create the STA logo.
+- Balsamiq wireframes software.
 ​
 ## **Credits**
 
