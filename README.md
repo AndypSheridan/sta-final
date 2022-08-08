@@ -19,10 +19,10 @@ The ideology here is to provide an amazing setting with high-calibre coaches who
     * [***Site Aims***](#site-aims)
     * [***Wireframes***](#wireframes)
     * [***Color Scheme***](#color-scheme)
-    * [***Typography**](#typography)
+    * [***Typography***](#typography)
 1. [**Current Features Common to all pages**](#current-features-common-to-all-pages)
-    * [***Header Element:***](#header-element)
-    * [***The rest of your features***](#features)
+    * [***Header Element***](#header-element)
+    * [***Other Features***](#features)
     * [**Footer**](#footer)
 1. [**Individual Page Content features**](#individual-page-content-features)
     * [**About Page Content**](#about-page-content)
@@ -248,10 +248,9 @@ I used the following technologies for the STA project:
 
 The following software was used:
 
-- Git
-- Github
-- Gitpod
-- 
+- Gitpod to create, load and push my code to Github.
+- Git (Gitpod and Github) as my version control for the site.
+- Adobe Express to create the STA logo.
 ​
 ## **Credits**
 
@@ -275,8 +274,10 @@ toggleButton.addEventListener('click', function() {
 
 
 ### **Media:**
+
+The logo STA was created using Adobe Express.
 ​
-The following images were used, all taken from Pexels.com:
+The following images were used, all acquired from public domain image site Pexels.com:
 
 * https://images.pexels.com/photos/5069180/pexels-photo-5069180.jpeg?auto=compress&cs=tinysrgb&w=800
 * https://images.pexels.com/photos/1277397/pexels-photo-1277397.jpeg?auto=compress&cs=tinysrgb&w=800
