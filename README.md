@@ -156,7 +156,7 @@ For the STA site, I decided on two different shades of purple: #9544CB and #ffe9
 ​
 There are a number of improvements which the business would like implemented:
 ​
-* A clickable link allowing the user to call the academy from mobile devices
+* A link allowing the user to call the academy from mobile devices
 * Access to a user account in order to make court bookings or book and pay for sessions with a coach 
 * The ability to view the coaching programme and book on to and pay for courses online
 * A further page with details of team fixtures and how the user can contact the various captains
@@ -233,8 +233,8 @@ I deployed the page on GitHub pages via the following procedure: -
 3. Under the **Source** section, select the **Main** branch from the drop-down menu and click **Save**.
 4. A message will be displayed to indicate a successful deployment to GitHub pages and provide the live link.
 ​
-You  can find the live site via the following URL - [live webpage](https://andypsheridan.github.io/sta-final/
-)
+You  can find the live site via the following URL - [live webpage](https://andypsheridan.github.io/sta-final/)
+
 ***
 ​
 ## **Tech**
@@ -256,16 +256,16 @@ The following software was used:
 ​
 ## **Credits**
 
-JavaScript code taken from YouTube user Well Explained. To help with the responsive navbar I used code from the following YouTube video: https://www.youtube.com/watch?v=qSp5C0OOMns
-At the time I had no knowledge of JavaScript so used the exact JS code featured in the video. The rest of the header is loosely based on their example but adapted for the needs of the academy.
-
 ### **Honorable mentions**
 ​
-My mentor, Richard Wells gave me a lot of help and feedback on the project. Thanks to the Code Institute community on Slack who helped me realise everyone has difficult days.
+* My mentor, Richard Wells, gave me a significant amount of feedback on the project; he was invaluable when it came to identifying and fixing bugs. Thanks to the Code Institute community on Slack who helped me realise everyone has difficult days.
 ​
 ### **Content:**
-​
-The following JavaScript code was taken from Well Explained's youtube video:
+
+JavaScript code taken from YouTube user 'Well Explained'. To help with the responsive navbar I used code from the following YouTube video: https://www.youtube.com/watch?v=qSp5C0OOMns
+At the time I had no knowledge of JavaScript so used the exact JS code featured in the video. The rest of the header is loosely based on their example but adapted for the needs of the academy.​
+
+Here is the code used:
 
 const toggleButton = document.getElementsByClassName('navbar-toggle')[0];
 const navbarLinks = document.getElementsByClassName('navbar-links');
