@@ -94,17 +94,19 @@ For the STA site, I decided on two different shades of purple: #9544CB and #ffe9
   * Sans serif - As a fallback font in the event Raleway wasn't supported by the browser
 ​
 * All fonts were sourced from Google fonts, as stated in the credits.
-​
+
+​<br>
+
 ## **Current Features Common to all pages**
 ​
-#### *Navigation Bar:*
+#### **Navigation Bar:**
 ​
 * The STA logo is present on the left side of the header
 * The user is given links to each of the three pages
 * Each option is presented in a way that is always obvious and readable by using a large font and hover effects
 * The header is responsive thanks to a flex display
 * On smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience
-* [Screenshot of header](docs/images/home.png)
+* [Screenshot of header](docs/images/home1.png)
 * [Screenshot of responsive header](docs/images/home-responsive.png)
 
 
