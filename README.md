@@ -2,11 +2,11 @@
 # **Southampton Tennis Academy**
 ## **Site Overview**
 
-Southampton Tennis Academy is designed to fulfil a genuine need for a high-level, inclusive tennis academy with state of the art facilities in the Southampton area of the UK.
+Southampton Tennis Academy has been designed to fulfil a genuine need for a high-level, accessible and safe tennis environment with state of the art facilities in the Southampton area of the UK.
 
-Whilst there are numerous clubs within the county they are often big-business, money-orientated environments or smaller clubs with inadequate coaching and competition programmes not to mention facilities which make training all year round a real challenge.
+Whilst there are numerous clubs within the county and region, they are often big-business, money-orientated centres or smaller clubs with inadequate coaching and competition programmes not to mention a lack of facilities which make training all year round a real challenge.
 
-The ideology here is to provide an amazing setting with high-calibre coaches who are all committed to developing tennis players of all ages and abilities. The centre is new so the site's purpose is to generate awareness within the local and wider community, whilst trying to make it clear that the philosophy is to put the prospective player at the centre of everything irrespective of their age or level.
+The ideology behind STA is to provide an amazing setting with high-calibre coaches and support staff who are all committed to developing tennis players of all ages and abilities. The centre is new so the site's purpose is to generate awareness within the local and wider community, whilst trying to make it clear that the philosophy is to put the prospective player at the centre of everything irrespective of their age or level.
 
 ![Am I Responsive Screenshot](docs/images/amiresponsive.png)
 
@@ -42,7 +42,8 @@ The ideology here is to provide an amazing setting with high-calibre coaches who
 ​
 ## **Planning stage**
 ### **Target Audiences:**
-​
+
+* People who are interested in tennis​
 * Parents looking for somewhere safe and professional their children can train 
 * Adults who wish to develop their tennis or compete at a new, exciting facility
 * Beginners who are looking for a friendly environment in which to learn the game
