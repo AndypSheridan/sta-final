@@ -42,7 +42,7 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
 ​
 ## **Planning Stage**
 
-### **Target Audiences:**
+#### **Target Audiences:**
 * People who are interested in tennis​.
 * Parents looking for somewhere safe and professional their children can train.
 * Adults who wish to develop their tennis or compete at a new, exciting facility.
@@ -50,7 +50,7 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
 * High level players looking for a training base between tournaments.
 
 ​
-### **User Stories:**
+#### **User Stories:**
 * As a user, I want to see what facilities the academy boasts.
 * As a user, I want to learn about the philosophy of the academy.
 * As a user, I want to navigate the page to find what I require quickly and easily.
@@ -60,7 +60,7 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
 * As a user, I want to find and follow the academy on social media.
 
 ​
-### **Site Aims:**
+#### **Site Aims:**
 * To raise awareness of the new centre and its philosophy.
 * To provide an opportunity for the user to see profiles of the coaching team.
 * To offer the user an oppertunity to get in contact.
@@ -68,7 +68,7 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
 * To show the location of the centre via a map and address.
 
 ​​
-### **Wireframes:**
+#### **Wireframes:**
 
 Wireframes for each page were created using Balsamiq.
 
@@ -83,7 +83,7 @@ Wireframes for each page were created using Balsamiq.
 
 <br>​
 
-### **Color Scheme:**
+#### **Color Scheme:**
 ​
 I used online palette generator ColorSpace to generate the following:
 
@@ -94,7 +94,7 @@ I used online palette generator ColorSpace to generate the following:
 I wanted to evoke similarities to the Wimbledon colours which are purple and green. I found that the purple shades worked very well within the site so chose to substitute the greens for images with significant amounts of green in them. I had to use white #fff in the header to provide suitable contrast to the background image. I used a grey #575359 as a neutral shade which worked well with the other colours across the site. I also used this as the colour for the footer and some of the text. In the form section I used a yellow #e7df49 a) to provide contrast and b) because it was the closest I could get to the colour of a tennis ball.
 
 ​
-### **Typography**
+#### **Typography**
 ​
 * Throughout the page, the following fonts are used:
   * Raleway ('https://fonts.googleapis.com/css2?family=Raleway&display=swap') - I had already created a logo which used this font so I wanted to use it throughout the site. I felt that this font offered a clean and modern look which suits the new academy.
@@ -323,4 +323,4 @@ The following images were used, all acquired from public domain image site Pexel
 * Thank you to my mentor, Richard Wells, who gave a significant amount of his time to provide me with feedback and ideas on the project; he has been invaluable in so many ways and a genuine source of motivation for me.
 * Thanks to the Code Institute community on Slack who helped remind me that everyone has difficult days.
 * A huge thank you to my partner Jess who now knows more about HTML and CSS than she ever wanted to.
-* Finally, thanks to my two boys, Arthur and Elijah who think I'm off working on a better Mario Kart.
+* Finally, thanks to my two boys, Arthur and Elijah, who will be very disappointed when they find out I haven't been working on Mario Kart 9.
