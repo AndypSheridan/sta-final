@@ -196,6 +196,7 @@ There are a number of improvements which the business would like implemented:
 * [Home page](docs/images/home-lighthouse.png)
 * [Team page](docs/images/team-lighthouse.png)
 * [Contact Form page](docs/images/form-lighthouse.png)
+* The site performs well in most areas although the Google Maps iframe on the contact page appears to 
 
 ​
 **Validators**
@@ -230,13 +231,15 @@ The following bugs were identified during user testing:
 
 * 🐞 - The contact form contained a bug where it was possible to submit the form without providing a valid email address
 * ⚒️ - The input type had been set to text
-* ✅ - Change input type to email so a valid email address was required
+* ✅ - Change input type to email so a valid email address was required. The input was re-tested after the bug was fixed and the issue was resolved.
 
 ​<br>
 
 * 🐞 - The contact form would not submit unless 'individual coaching' was selected 
 * ⚒️ - The input type had been set to 'required'
-* ✅ - Remove the required attribute so the user did not have to select this option
+* ✅ - Remove the required attribute so the user did not have to select this option. This fixed the issue and upon re-testing the user would not have to select this option.
+
+<br>
 
 ## **Unfixed Bugs**
 
