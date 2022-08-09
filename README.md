@@ -237,7 +237,11 @@ The following bugs were identified during user testing:
 * 🐞 - The contact form would not submit unless 'individual coaching' was selected 
 * ⚒️ - The input type had been set to 'required'
 * ✅ - Remove the required attribute so the user did not have to select this option
-​
+
+## **Unfixed Bugs**
+
+* There are no known unfixed bugs at this stage but this section has been added to catalogue future bugs.
+
 ***
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure: -
