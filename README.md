@@ -166,7 +166,7 @@ I wanted to evoke similarities to the Wimbledon colours which are purple and gre
 ​
 ## **Future-Enhancements**
 ​
-There are a number of improvements which the business would like implemented:
+There are a number of improvements the business would like implemented going forward:
 ​
 * A link allowing the user to call the academy from mobile devices
 * Access to a user account in order to make court bookings or book and pay for sessions with a coach 
@@ -279,12 +279,6 @@ The following software was used:
 
 
 ## **Credits**
-### **Honorable mentions**
-
-* Thank you to my mentor, Richard Wells, who gave a significant amount of his time to provide me with feedback and ideas on the project; he has been invaluable in so many ways and a genuine source of motivation for me.
-* Thanks to the Code Institute community on Slack who helped remind me that everyone has difficult days.
-* A huge thank you to my partner Jess who now knows more about HTML and CSS than she ever wanted to.
-* Finally, thanks to my two boys, Arthur and Elijah who think one day I'll build the new MarioKart.
 ​
 ### **Content:**
 
