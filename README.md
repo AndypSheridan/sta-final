@@ -85,7 +85,13 @@ Wireframes for each page were created using Balsamiq.
 
 ### **Color Scheme:**
 ​
-For the STA site, I decided on two different shades of purple: #9544CB and #ffe9ff. I wanted to evoke similarities to the Wimbledon colours which are purple and green. I chose images with significant amounts of green in them to provide that colour. I had to use white #fff in the header to provide suitable contrast to the background image. I used a grey #575359 as a neutral shade which worked well with the other colours. I also used this as the colour for the footer and some of the text. In the form section I used a yellow #e7df49 a) to provide contrast and b) because it was the closest I could get to the colour of a tennis ball.
+I used online palette generator ColorSpace to generate the following:
+
+<br>
+
+![Colour Palette](docs/images/colors.png)
+
+I wanted to evoke similarities to the Wimbledon colours which are purple and green. I found that the purple shades worked very well within the site so chose to substitute the greens for images with significant amounts of green in them. I had to use white #fff in the header to provide suitable contrast to the background image. I used a grey #575359 as a neutral shade which worked well with the other colours across the site. I also used this as the colour for the footer and some of the text. In the form section I used a yellow #e7df49 a) to provide contrast and b) because it was the closest I could get to the colour of a tennis ball.
 
 ​
 ### **Typography**
