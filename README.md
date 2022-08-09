@@ -143,11 +143,16 @@ I wanted to evoke similarities to the Wimbledon colours which are purple and gre
 * The programme section elaborates on the core principles of competition, coaching and practice. The important message to convey is that there is more to the academy than just coaching. There is a comprehansive competetition programme involving team events and leagues, singles and doubles and rankings tournaments for all ages and abilities. Practice is also an essential ideology at the academy and players as it is recognised that this is often where a lot of the hard work is done.
 * This section is split into three divs which sit side by side but stack one on top of the other on smaller screens. In the headings for each div I used relevant icons from Font Awesome which help to reinforce what each one is about.
 
+<br> 
+
 #### **Team Page** 
 
 ![Screenshot of team page](docs/images/team.png)
 * The team page uses the same h1 heading, responsiveness and background gradient as the home page for the purpose of consistency.
-* The main focus of this page are the photos of the three coaches and their corresponding short biographies. Similar to the home page, these are placed side by side but will stack on top of each other when the screen width is reduced. I have used the same background colour for the bios as the programme section of the home page.
+* The main focus of this page are the photos of the three coaches and their corresponding short biographies. Similar to the home page, these are placed side by side but will stack on top of each other when the screen width is reduced. 
+* For consistency purposes, the background color of the bios remains true to the overall color palette of the site overall.
+
+<br>
 
 #### **Contact Form Page**
 
@@ -173,7 +178,8 @@ There are a number of improvements which the business would like implemented:
 ​
 **Responsiveness**
 * Responsiveness was tested extensively using Chrome Dev Tools. This proved invaluable when creating each page and was instrumental in helping me ensure responsiveness on multiple devices and screen sizes. The ability to experiment with the code saved a lot of trial and error within gitpod.
-* User testing was conducted on multiple devices including phones, tablets, laptops and desktops. As I was limited to Apple devices only I sent the link to varius friends and colleagues so they could check responsiveness. In each case, the pages responded as expected.
+* User testing was conducted on the following devices: Apple iPhone 12, Apple iPad Air 2021, Apple Macbbok Air 2021, Apple iMac 2021. 
+* As I was limited to Apple devices only I sent the link to varius friends and colleagues so they could check responsiveness on further devices including Windows desktop PCs, Amazon tablets and Samsung Galaxy S12. In each case, the pages responded as expected.
 ​
 
 **Functionality**
@@ -188,7 +194,7 @@ There are a number of improvements which the business would like implemented:
 * I used *Lighthouse* to test each page. Results below:
 * [Home page](docs/images/home-lighthouse.png)
 * [Team page](docs/images/team-lighthouse.png)
-* [Form page](docs/images/form-lighthouse.png)
+* [Contact Form page](docs/images/form-lighthouse.png)
 
 ​
 **Validators**
@@ -197,13 +203,13 @@ There are a number of improvements which the business would like implemented:
 
 * [Home page](docs/images/home-html-check.png)
 * [Team page](docs/images/team-html-check.png)
-* [Form page](docs/images/form-html-check.png)
+* [Contact Form page](docs/images/form-html-check.png)
 
 * CSS Validation using w3c jigsaw - Each page passed validation
 
 * [Home page](docs/images/home-css-check.png)
 * [Team page](docs/images/team-css-check.png)
-* [Form page](docs/images/form-css-check.png)
+* [Contact Form page](docs/images/form-css-check.png)
 
 * JavaScript Validation using jShint - Code passed validation
 
