@@ -265,7 +265,10 @@ The following software was used:
 
 ### **Honorable mentions**
 ​
-* My mentor, Richard Wells, gave me a significant amount of feedback on the project; he was invaluable when it came to identifying and fixing bugs. Thanks to the Code Institute community on Slack who helped me realise everyone has difficult days.
+* Thank you to my mentor, Richard Wells, who gave a significant amount of his time to provide me with feedback and ideas on the project; he has been invaluable in so many ways and a genuine source of motivation for me.
+* Thanks to the Code Institute community on Slack who helped remind me that everyone has difficult days.
+* A huge thank you to my partner Jess who now knows more about HTML and CSS than she ever wanted to.
+* Finally, thanks to my two boys, Arthur and Elijah who think one day I'll build the new MarioKart.
 ​
 ### **Content:**
 
