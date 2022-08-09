@@ -35,10 +35,10 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
 1. [**Deployment**](#deployment)
 1. [**Tech**](#tech)
 1. [**Credits**](#credits)
-    * [**Honorable mentions**](#honorable-mentions)
     * [**General reference**](#general-reference)
     * [**Content**](#content)
     * [**Media**](#media)
+    * [**Honorable mentions**](#honorable-mentions)
 ​
 ## **Planning stage**
 ### **Target Audiences:**
@@ -278,7 +278,7 @@ The following software was used:
 ​
 ### **Content:**
 
-JavaScript code taken from YouTube user 'Well Explained'. To help with the responsive navbar I used code from the following YouTube video: https://www.youtube.com/watch?v=qSp5C0OOMns
+* JavaScript code taken from YouTube user 'Well Explained'. To help with the responsive navbar I used code from the following YouTube video: https://www.youtube.com/watch?v=qSp5C0OOMns
 At the time I had no knowledge of JavaScript so used the exact JS code featured in the video. The rest of the header is loosely based on their example but adapted for the needs of the academy.​
 
 Here is the code used:
@@ -289,6 +289,10 @@ toggleButton.addEventListener('click', function() {
     for(var i=0; i<navbarLinks.length; i++)
     navbarLinks[i].classList.toggle('active');
 });
+
+* Social media and email icons from https://fontawesome.com/
+
+* The contact form is loosely based on Code Insitute's Love Running walkthrough project.
 
 
 ### **Media:**
@@ -303,3 +307,11 @@ The following images were used, all acquired from public domain image site Pexel
 * https://images.pexels.com/photos/6292759/pexels-photo-6292759.jpeg?auto=compress&cs=tinysrgb&w=800
 * https://images.pexels.com/photos/8224730/pexels-photo-8224730.jpeg?auto=compress&cs=tinysrgb&w=800
 * https://images.pexels.com/photos/2339377/pexels-photo-2339377.jpeg?auto=compress&cs=tinysrgb&w=800
+
+
+### **Honorable mentions**
+​
+* Thank you to my mentor, Richard Wells, who gave a significant amount of his time to provide me with feedback and ideas on the project; he has been invaluable in so many ways and a genuine source of motivation for me.
+* Thanks to the Code Institute community on Slack who helped remind me that everyone has difficult days.
+* A huge thank you to my partner Jess who now knows more about HTML and CSS than she ever wanted to.
+* Finally, thanks to my two boys, Arthur and Elijah who are convinced that one day I'll build the new MarioKart.
