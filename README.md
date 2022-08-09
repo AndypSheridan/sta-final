@@ -40,33 +40,34 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
     * [**Media**](#media)
     * [**Honorable mentions**](#honorable-mentions)
 ​
-## **Planning stage**
+## **Planning Stage**
 ### **Target Audiences:**
 
-* People who are interested in tennis​
-* Parents looking for somewhere safe and professional their children can train 
-* Adults who wish to develop their tennis or compete at a new, exciting facility
-* Beginners who are looking for a friendly environment in which to learn the game
-* High level players looking for a training base between tournaments
+* People who are interested in tennis​.
+* Parents looking for somewhere safe and professional their children can train.
+* Adults who wish to develop their tennis or compete at a new, exciting facility.
+* Beginners who are looking for a friendly environment in which to learn the game.
+* High level players looking for a training base between tournaments.
 
 ​
 ### **User Stories:**
 ​​
-* As a user, I want to see what facilities the academy boasts
-* As a user, I want to learn about the philosophy of the academy
+* As a user, I want to see what facilities the academy boasts.
+* As a user, I want to learn about the philosophy of the academy.
 * As a user, I want to navigate the page to find what I require quickly and easily.
-* As a user, I want to learn more about the coaches and what they offer
-* As a user, I want to reach out and contact the academy
-* As a user, I want to know how to find the academy
+* As a user, I want to learn more about the coaches and what they offer.
+* As a user, I want to reach out and contact the academy.
+* As a user, I want to know how to find the academy.
+* As a user, I want to find and follow the academy on social media.
 
 ​
 ### **Site Aims:**
 ​​
-* To raise awareness of the new centre and its philosophy
-* To provide an opportunity for the user to see profiles of the coaching team
-* To offer the user an oppertunity to get in contact
-* To provide a contact form the user can complete if they would rather not email or contact via social media
-* To show the location of the centre via a map and address
+* To raise awareness of the new centre and its philosophy.
+* To provide an opportunity for the user to see profiles of the coaching team.
+* To offer the user an oppertunity to get in contact.
+* To provide a contact form the user can complete if they would rather not email or contact via social media.
+* To show the location of the centre via a map and address.
 
 ​​
 ### **Wireframes:**
@@ -104,7 +105,7 @@ I wanted to evoke similarities to the Wimbledon colours which are purple and gre
 
 ​<br>
 
-## **Current Features Common to all pages**
+## **Current Features Common to all Pages**
 ​
 #### **Navigation Bar:**
 ​
@@ -118,7 +119,7 @@ I wanted to evoke similarities to the Wimbledon colours which are purple and gre
 * ![Screenshot of responsive header](docs/images/header-responsive.png)
 
 
-#### *Footer:*
+#### **Footer:**
 
 * The footer contains social media link and a clickable email link so the user can contact the academy
 * The footer is responsive and the icons all shrink on smaller screens
@@ -179,7 +180,7 @@ There are a number of improvements which the business would like implemented:
 **Responsiveness**
 * Responsiveness was tested extensively using Chrome Dev Tools. This proved invaluable when creating each page and was instrumental in helping me ensure responsiveness on multiple devices and screen sizes. The ability to experiment with the code saved a lot of trial and error within gitpod.
 * User testing was conducted on the following devices: Apple iPhone 12, Apple iPad Air 2021, Apple Macbbok Air 2021, Apple iMac 2021. 
-* As I was limited to Apple devices only I sent the link to varius friends and colleagues so they could check responsiveness on further devices including Windows desktop PCs, Amazon tablets and Samsung Galaxy S12. In each case, the pages responded as expected.
+* As I was limited to Apple devices only I sent the link to various friends and colleagues so they could check responsiveness on further devices including Windows desktop PCs, Amazon tablets and Samsung Galaxy S12. In each case, the pages responded as expected.
 ​
 
 **Functionality**
@@ -187,7 +188,7 @@ There are a number of improvements which the business would like implemented:
 * Each feature was user-tested numerous times. All links were clicked and inages checked.
 * The header is responsive and each of the links and hamburger menu function as desired. 
 * The javascript behaves as expected regardless of the device. 
-* The social media links within the footer all work as expected, taking the user to the relevant link in a new tab. 
+* The social media links within the footer all work as expected on all pages, taking the user to the relevant link in a new tab. 
 * The contact link within the cover-text takes the user to the contact page when clicked. 
 * On the contact page the form inputs and validation works as expected. 
 * The Google map on the same page also functions properly. 
@@ -267,10 +268,13 @@ The following software was used:
 - Adobe Express to create the STA logo.
 - Balsamiq wireframes software.
 ​
-## **Credits**
 
+<br>
+
+
+## **Credits**
 ### **Honorable mentions**
-​
+
 * Thank you to my mentor, Richard Wells, who gave a significant amount of his time to provide me with feedback and ideas on the project; he has been invaluable in so many ways and a genuine source of motivation for me.
 * Thanks to the Code Institute community on Slack who helped remind me that everyone has difficult days.
 * A huge thank you to my partner Jess who now knows more about HTML and CSS than she ever wanted to.
@@ -310,8 +314,7 @@ The following images were used, all acquired from public domain image site Pexel
 
 
 ### **Honorable mentions**
-​
 * Thank you to my mentor, Richard Wells, who gave a significant amount of his time to provide me with feedback and ideas on the project; he has been invaluable in so many ways and a genuine source of motivation for me.
 * Thanks to the Code Institute community on Slack who helped remind me that everyone has difficult days.
 * A huge thank you to my partner Jess who now knows more about HTML and CSS than she ever wanted to.
-* Finally, thanks to my two boys, Arthur and Elijah who are convinced that one day I'll build the new MarioKart.
+* Finally, thanks to my two boys, Arthur and Elijah who think I'm off working on a better Mario Kart.
