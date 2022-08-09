@@ -41,8 +41,8 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
     * [**Honorable mentions**](#honorable-mentions)
 ​
 ## **Planning Stage**
-### **Target Audiences:**
 
+### **Target Audiences:**
 * People who are interested in tennis​.
 * Parents looking for somewhere safe and professional their children can train.
 * Adults who wish to develop their tennis or compete at a new, exciting facility.
@@ -51,7 +51,6 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
 
 ​
 ### **User Stories:**
-​​
 * As a user, I want to see what facilities the academy boasts.
 * As a user, I want to learn about the philosophy of the academy.
 * As a user, I want to navigate the page to find what I require quickly and easily.
@@ -62,7 +61,6 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
 
 ​
 ### **Site Aims:**
-​​
 * To raise awareness of the new centre and its philosophy.
 * To provide an opportunity for the user to see profiles of the coaching team.
 * To offer the user an oppertunity to get in contact.
@@ -82,7 +80,8 @@ Wireframes for each page were created using Balsamiq.
 
 * Form Page
 [Form Page Wireframe](docs/images/form-wireframe.png)
-​
+
+<br>​
 
 ### **Color Scheme:**
 ​
