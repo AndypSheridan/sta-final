@@ -125,6 +125,7 @@ I wanted to evoke similarities to the Wimbledon colours which are purple and gre
 * On smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience.
 
 ![Screenshot of header](docs/images/header.png)
+
 ![Screenshot of responsive header](docs/images/header-responsive.png)
 
 
@@ -134,6 +135,7 @@ I wanted to evoke similarities to the Wimbledon colours which are purple and gre
 * The footer is responsive and the icons all shrink on smaller screens.
 
 ![Screenshot of footer](docs/images/footer.png)
+
 ![Screenshot of responsive footer](docs/images/footer-responsive.png)
 ​
 
