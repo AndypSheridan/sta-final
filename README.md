@@ -341,9 +341,9 @@ toggleButton.addEventListener('click', function() {
 
 ### **Media:**
 
-The STA logo and browser tab icon were created using Adobe Express.
+* The STA logo and browser tab icon were created using Adobe Express.
 ​
-The following images were used, all acquired from public domain image site Pexels.com:
+* The following images were used, all acquired from public domain image site Pexels.com:
 
 * https://images.pexels.com/photos/5069180/pexels-photo-5069180.jpeg?auto=compress&cs=tinysrgb&w=800
 * https://images.pexels.com/photos/1277397/pexels-photo-1277397.jpeg?auto=compress&cs=tinysrgb&w=800
