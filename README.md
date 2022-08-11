@@ -41,6 +41,8 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
 ​
 ## **Planning Stage**
 
+<br>
+
 #### **Target Audiences:**
 * People who are interested in tennis​.
 * Parents looking for somewhere safe and professional their children can train.
@@ -69,7 +71,7 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
 ​​
 #### **Wireframes:**
 
-Wireframes for each page were created using Balsamiq. This process was a valuable way to create a basic but clear outline of how each page would look before starting on the code.
+Wireframes for each page were created using Balsamiq. This process provided a basic but clear outline of how each page would look as well as organising the content.
 
 * Home Page
 [Home Page Wireframe](docs/images/home-wireframe.png)
@@ -113,8 +115,8 @@ I wanted to evoke similarities to the Wimbledon colours which are purple and gre
 * Each page features an active link to provide instant feedback to the user as to their location on the site.
 * The header is fully responsive and uniform across all three pages of the site thanks to a flex display.
 * On smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience.
-* ![Screenshot of header](docs/images/header.png)
-* ![Screenshot of responsive header](docs/images/header-responsive.png)
+![Screenshot of header](docs/images/header.png)
+![Screenshot of responsive header](docs/images/header-responsive.png)
 
 
 #### **Footer:**
@@ -259,9 +261,9 @@ The following bugs were identified during user testing:
 
 ## **Unfixed Bugs**
 
-* There are no known unfixed bugs at this stage but this section has been added to catalogue future bugs.
+* There are no known unfixed bugs at this stage but this section has been added to catalogue instances of future bugs.
 
-***
+
 ## **Deployment**
 I deployed the page on GitHub pages via the following procedure: -
 ​
