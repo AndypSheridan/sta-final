@@ -1,4 +1,3 @@
-@@ -1,2 +1,159 @@
 # **Southampton Tennis Academy**
 ## **Site Overview**
 
@@ -70,7 +69,7 @@ The ideology behind STA is to provide an amazing setting with high-calibre coach
 ​​
 #### **Wireframes:**
 
-Wireframes for each page were created using Balsamiq.
+Wireframes for each page were created using Balsamiq. This process was a valuable way to create a basic but clear outline of how each page would look before starting on the code.
 
 * Home Page
 [Home Page Wireframe](docs/images/home-wireframe.png)
@@ -122,8 +121,8 @@ I wanted to evoke similarities to the Wimbledon colours which are purple and gre
 
 * The footer contains social media link and a clickable email link so the user can contact the academy
 * The footer is responsive and the icons all shrink on smaller screens
-* [Screenshot of footer](docs/images/footer.png)
-* [Screenshot of responsive footer](docs/images/footer-responsive.png)
+* ![Screenshot of footer](docs/images/footer.png)
+* ![Screenshot of responsive footer](docs/images/footer-responsive.png)
 ​
 
 ## **Features**
@@ -195,7 +194,7 @@ There are a number of improvements the business would like implemented going for
 * [Home page](docs/images/home-lighthouse.png)
 * [Team page](docs/images/team-lighthouse.png)
 * [Contact Form page](docs/images/form-lighthouse.png)
-* The site performs well in most areas although the Google Maps iframe on the contact page appears to 
+* Each page of the site performs well. Performance of the Contact Form appears to be slightly slowed by the inclusion of the Google Map.
 
 ​
 **Validators**
@@ -222,21 +221,27 @@ There are a number of improvements the business would like implemented going for
 ​
 The following bugs were identified during user testing:
 
-* 🐞 - When on mobile the team page coach bios failed to align properly
-* ⚒️ - There was an open div tag in the html code
-* ✅ - Added the relevant closing tag to make the coach bios respond properly
+* 🐞 - When on mobile the team page coach bios failed to align properly.
+* ⚒️ - There was an open div tag in the html code.
+* ✅ - Added the relevant closing tag to make the coach bios respond properly.
 
 <br>
 
-* 🐞 - The contact form contained a bug where it was possible to submit the form without providing a valid email address
-* ⚒️ - The input type had been set to text
+* 🐞 - The contact form contained a bug where it was possible to submit the form without providing a valid email address.
+* ⚒️ - The input type had been set to text.
 * ✅ - Change input type to email so a valid email address was required. The input was re-tested after the bug was fixed and the issue was resolved.
 
 ​<br>
 
-* 🐞 - The contact form would not submit unless 'individual coaching' was selected 
-* ⚒️ - The input type had been set to 'required'
+* 🐞 - The contact form would not submit unless 'individual coaching' was selected.
+* ⚒️ - The input type had been set to 'required'.
 * ✅ - Remove the required attribute so the user did not have to select this option. This fixed the issue and upon re-testing the user would not have to select this option.
+
+<br>
+
+* 🐞 - A bug was found upon resizing the window after the hamburger menu was opened.
+* ⚒️ - Unless the user manually closed the menu after opening it, it would remain open.
+* ✅ - Change the JS code so the menu would close automatically once the screen width exceeded 600 pixels.
 
 <br>
 
