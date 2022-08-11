@@ -220,7 +220,7 @@ There are a number of improvements the business would like implemented going for
 * [Home page](docs/images/home-lighthouse.png)
 * [Team page](docs/images/team-lighthouse.png)
 * [Contact Form page](docs/images/form-lighthouse.png)
-* Each page of the site performs well. Performance of the Contact Form appears to be slightly slowed by the inclusion of the Google Map.
+* Each page of the site performs well.
 * The Home and Contact Formm pages each received 100% accessibility scores whilst the Team page achieved a score of 98%.
 
 ​
