@@ -106,6 +106,14 @@ I wanted to evoke similarities to the Wimbledon colours which are purple and gre
 ​<br>
 
 ## **Current Features Common to all Pages**
+
+#### **Favicon**
+
+* The favicon is a small image that displays in the browser tab. 
+* The intention is to enhance the user experience for those who have multiple tabs open and cannot read the text in the tabs.
+* The favicon is an enlarged version of the tennis ball in the STA logo in the purple shades used across the site.
+
+![Screenshot of favicon](docs/images/favicon-screenshot.png)
 ​
 #### **Navigation Bar:**
 ​
@@ -115,14 +123,16 @@ I wanted to evoke similarities to the Wimbledon colours which are purple and gre
 * Each page features an active link to provide instant feedback to the user as to their location on the site.
 * The header is fully responsive and uniform across all three pages of the site thanks to a flex display.
 * On smaller screens a hamburger menu is provided to ensure mobile users have an optimal experience.
+
 ![Screenshot of header](docs/images/header.png)
 ![Screenshot of responsive header](docs/images/header-responsive.png)
 
 
 #### **Footer:**
 
-* The footer contains social media link and a clickable email link so the user can contact the academy
-* The footer is responsive and the icons all shrink on smaller screens
+* The footer contains social media link and a clickable email link so the user can contact the academy.
+* The footer is responsive and the icons all shrink on smaller screens.
+
 ![Screenshot of footer](docs/images/footer.png)
 ![Screenshot of responsive footer](docs/images/footer-responsive.png)
 ​
