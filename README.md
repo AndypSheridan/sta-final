@@ -177,7 +177,7 @@ There are a number of improvements the business would like implemented going for
 ​
 **Responsiveness**
 * Responsiveness was tested extensively using Chrome Dev Tools. This proved invaluable when creating each page and was instrumental in helping me ensure responsiveness on multiple devices and screen sizes. The ability to experiment with the code saved a lot of trial and error within gitpod.
-* User testing was conducted on the following devices: Apple iPhone 12, Apple iPad Air 2021, Apple Macbbok Air 2021, Apple iMac 2021. 
+* User testing was conducted on the following devices: Apple iPhone 12, Apple iPad Air 2021, Apple Macbook Air 2021, Apple iMac 2021. 
 * As I was limited to Apple devices only I sent the link to various friends and colleagues so they could check responsiveness on further devices including Windows desktop PCs, Amazon tablets and Samsung Galaxy S12. In each case, the pages responded as expected.
 ​
 
@@ -287,7 +287,7 @@ The following software was used:
 ​
 ### **Content:**
 
-* JavaScript code taken from YouTube user 'Well Explained'. To help with the responsive navbar I used code from the following YouTube video: https://www.youtube.com/watch?v=qSp5C0OOMns
+* Initial JavaScript code taken from YouTube user 'Well Explained'. To help with the responsive navbar I used code from the following YouTube video: https://www.youtube.com/watch?v=qSp5C0OOMns
 At the time I had no knowledge of JavaScript so used the exact JS code featured in the video. The rest of the header is loosely based on their example but adapted for the needs of the academy.​
 
 Here is the code used:
@@ -298,6 +298,8 @@ toggleButton.addEventListener('click', function() {
     for(var i=0; i<navbarLinks.length; i++)
     navbarLinks[i].classList.toggle('active');
 });
+
+* The above code resulted in a bug upon reszing of the browser window so Richard Wells helped fix this in our final session on this project.
 
 * Social media and email icons from https://fontawesome.com/
 
