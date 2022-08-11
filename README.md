@@ -190,6 +190,7 @@ There are a number of improvements the business would like implemented going for
 ## **Testing Phase**
 ​
 **Responsiveness**
+
 * Responsiveness was tested extensively using Chrome Dev Tools. This proved invaluable when creating each page and was instrumental in helping me ensure responsiveness on multiple devices and screen sizes. The ability to experiment with the code saved a lot of trial and error within gitpod.
 * User testing was conducted on the following devices: Apple iPhone 12, Apple iPad Air 2021, Apple Macbook Air 2021, Apple iMac 2021. 
 * As I was limited to Apple devices only I sent the link to various friends and colleagues so they could check responsiveness on further devices including Windows desktop PCs, Amazon tablets and Samsung Galaxy S12. In each case, the pages responded as expected.
@@ -217,9 +218,11 @@ There are a number of improvements the business would like implemented going for
 * On the contact page the form inputs and validation works as expected. 
 * The Google map on the same page also functions properly. 
 * I used *Lighthouse* to test each page. Results below:
+
 * [Home page](docs/images/home-lighthouse.png)
 * [Team page](docs/images/team-lighthouse.png)
 * [Contact Form page](docs/images/form-lighthouse.png)
+
 * Each page of the site performs well.
 * The Home and Contact Formm pages each received 100% accessibility scores whilst the Team page achieved a score of 98%.
 
@@ -334,7 +337,7 @@ toggleButton.addEventListener('click', function() {
 
 * The above code resulted in a bug upon reszing of the browser window so Richard Wells helped fix this in our final session on this project.
 
-* Social media and email icons from https://fontawesome.com/
+* Social media and email icons were taken from https://fontawesome.com/
 
 * The contact form is loosely based on Code Insitute's Love Running walkthrough project.
 
