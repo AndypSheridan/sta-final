@@ -260,6 +260,12 @@ The following bugs were identified during user testing:
 
 <br>
 
+* 🐞 - Upon loading each page the following error message was displayed in the console: GET https://Andypsheridan.github.io/favicon.ico 404
+* ⚒️ - The site had not been assigned a favicon.
+* ✅ - I created a separate logo, using an enlarged version of the tennis ball icon from the original design and added a link within the HTML on each page so this logo would display on the browser tab.
+
+<br>
+
 ## **Unfixed Bugs**
 
 * There are no known unfixed bugs at this stage but this section has been added to catalogue instances of future bugs.
