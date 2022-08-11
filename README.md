@@ -121,8 +121,8 @@ I wanted to evoke similarities to the Wimbledon colours which are purple and gre
 
 * The footer contains social media link and a clickable email link so the user can contact the academy
 * The footer is responsive and the icons all shrink on smaller screens
-* ![Screenshot of footer](docs/images/footer.png)
-* ![Screenshot of responsive footer](docs/images/footer-responsive.png)
+![Screenshot of footer](docs/images/footer.png)
+![Screenshot of responsive footer](docs/images/footer-responsive.png)
 ​
 
 ## **Features**
@@ -179,6 +179,18 @@ There are a number of improvements the business would like implemented going for
 * Responsiveness was tested extensively using Chrome Dev Tools. This proved invaluable when creating each page and was instrumental in helping me ensure responsiveness on multiple devices and screen sizes. The ability to experiment with the code saved a lot of trial and error within gitpod.
 * User testing was conducted on the following devices: Apple iPhone 12, Apple iPad Air 2021, Apple Macbook Air 2021, Apple iMac 2021. 
 * As I was limited to Apple devices only I sent the link to various friends and colleagues so they could check responsiveness on further devices including Windows desktop PCs, Amazon tablets and Samsung Galaxy S12. In each case, the pages responded as expected.
+
+* **Home Page**
+
+![Screenshot of responsive home page](docs/images/home-responsive.png)
+
+* **Team Page**
+
+![Screenshot of responsive team page](docs/images/team-responsive.png)
+
+* **Contact form page**
+
+![Screenshot of responsive contact form page](docs/images/form-responsive.png)
 ​
 
 **Functionality**
